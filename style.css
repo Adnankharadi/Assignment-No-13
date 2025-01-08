@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    background-color: black;
+}
+.colo2{
+    margin-left: 250px;
+    color: grey;
+}
+ul > li{
+    border: 3px solid rgb(0, 0, 0);
+    display: inline-block;
+    padding: 15px;
+    margin: 10px;
+    color: aliceblue;
+}
+.hea{
+    font-size: 30px;
+    color: aliceblue;
+}
+.hea1{
+    margin-left: 650px;
+    font-size: 30px;
+    color: aliceblue;
+}
+.first ul li:hover{
+    color: rgb(252, 227, 7);
+}
+body{
+    background-color: skyblue;
+}
+.colo{
+    text-align: center;
+    display: inline-block;
+    color: grey;
+}
+button{
+    border: 1px solid rgb(15, 15, 15);
+    background-color: rgb(123, 175, 209);
+    color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.colo1{
+    margin-left: 650px;
+    color: grey;
+}
+.right{
+    margin-left: 400px;
+}
